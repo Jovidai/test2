@@ -1,0 +1,24 @@
+#header {font-size: 30; background-color: rgb(107, 126, 75); color: white; padding: 30px}
+
+.subhead {font-size: 30; color: rgb(0, 0, 0); padding: 30px; background-color: rgb(212, 157, 63);}
+
+.page {background-color: bisque;}
+
+.button {
+    background-color: #1b1b1b; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 30px;
+    cursor: pointer;
+    }
+
+.a:link, a:visited, a:hover, a:active, a {color: white; font-size: 16px;}
+
+.p {font-size: 20px !important; padding: 15px; color: black !important;}
+
+.box {width: 300px; border: 2px; background-color: rgb(189, 103, 120); margin: 5px; color: whitesmoke;}
